@@ -1,0 +1,22 @@
+Informații despre SRL: Factura trebuie să conțină informații complete despre compania SRL, inclusiv numele, adresa, codul fiscal și numărul de înregistrare la Registrul Comerțului.
+
+Informații despre client: Trebuie să furnizați informații despre persoana fizică către care se emite factura, inclusiv numele, adresa și, dacă este disponibil, codul fiscal sau alte detalii de identificare fiscală.
+
+Descrierea serviciilor sau produselor: Factura ar trebui să detalieze serviciile prestate sau produsele livrate. Includeți o descriere clară a fiecărui articol, cantitatea, prețul unitar și totalul pentru fiecare.
+
+Datele facturii: Asigurați-vă că factura include data emiterii, un număr de identificare unic al facturii și termenul de plată.
+
+Detalii despre plată: Specificați modalitatea de plată acceptată și informațiile necesare pentru a efectua plata, cum ar fi numărul de cont bancar.
+
+Termeni și condiții: Poate fi util să includem termeni și condiții, cum ar fi informații despre politica de returnare sau detalii despre penalitățile pentru întârzieri în plată.
+
+Semnătura și ștampila SRL-ului: Factura trebuie să fie semnată și să conțină ștampila SRL-ului pentru a fi legală și valabilă.
+
+După ce ați pregătit factura, puteți trimite o copie către persoana fizică, fie în format electronic, fie în format fizic, în funcție de preferințele ambelor părți.
+
+Este important să rețineți că legislația fiscală poate varia în funcție de jurisdicție, iar facturile trebuie să respecte cerințele specifice ale autorităților fiscale din țara dvs. Înainte de a emite facturi, este întotdeauna recomandat să consultați un contabil sau un specialist fiscal pentru a vă asigura că respectați toate cerințele legale.
+
+
+
+
+

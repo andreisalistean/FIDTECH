@@ -1,0 +1,18 @@
+-contact
+- 0	 home 
+- services 
+	PC:
+	1	service PC/ Laptop////
+	2	pre-build units////
+	3	custome-build units//////
+	4	upgrade  PC////
+	5	optimizationes///
+	Custom-cases:
+	6	Tabel top ////
+	7	wall mounts/////
+	8	Intabel ///////
+	Software:
+	9	site prezentare
+	10	Lucrari licenta web
+	11Contact	
+	

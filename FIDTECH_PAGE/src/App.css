@@ -1,0 +1,146 @@
+.nav_open{
+  display: flex;
+  flex-direction: row;
+  position: fixed;
+  z-index: 2;
+overflow-x: hidden;
+transition: 0.5s;
+  color:#3085e0;
+  background-color: #1a1a1a;
+  height: 100%;
+  width:320px;
+  top:0;
+  left: 0px;;
+}
+
+.nav_close{
+  display: flex;
+  color:#3085e0;
+  flex-direction: row;
+  position: fixed;
+  z-index: 2;
+overflow-x: hidden;
+transition: 0.5s;
+  height: 100%;
+  width:390px;
+  top:0;
+  left: -320px;
+}
+
+.page{
+  display: flex;
+  flex-direction: row;
+}
+
+.btnMenu{
+  height: 3.5rem;width:3.5rem;
+  margin-left: auto;
+  padding :15px;
+  
+}
+
+.btnMenu:hover{
+  filter: drop-shadow(2px 2px 11px #5698df);
+  cursor:pointer;
+}
+ul{ 
+  display: flex;
+  flex-direction: column;
+}
+.category{
+  padding:10px;
+  color:#ffd166;
+  background: linear-gradient(to right, #373737,rgba(0,0,0,0));
+}
+.element{
+  padding :8px;
+  position: relative;
+  display: inline-block;
+  border-bottom: 2px solid transparent;  
+}
+
+
+.element:hover{
+  border-bottom:2px solid #ffd166;
+}   
+.logo_out{
+position:fixed;
+left: 330px;
+top:0px;
+width:170px;
+transition:0.5s;
+cursor:pointer;
+border-bottom: 2px solid transparent; 
+}
+
+.logo_out:hover{
+  border-bottom-color: #218afa;
+}
+
+.logo_in{
+
+  position:fixed;
+  left: 80px;
+  top:0px;
+  width:170px;
+  height: auto;
+  transition:0.5s;
+  cursor:pointer;
+  border-bottom: 2px solid transparent; 
+  
+}
+
+.logo_in:hover{
+  border-bottom-color: #218afa;
+}
+
+.contact{
+  position: fixed;
+  right:0;
+  top:0;
+  padding :10px;
+  margin-right: 20px;
+  margin-top: 15px;
+  font-size: x-large;
+  background: linear-gradient(to right,  #218afa,#218afa,#ffffffee ,#ffffffee,#ffffffee);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 700;
+}
+
+.contact:hover{
+  filter:drop-shadow(5px 5px 20px #9fc4ec);
+}
+
+.containerContact{
+display: flex;
+flex-direction: column;
+}
+
+.containerSocial{
+display: flex;
+flex-direction: row;
+position:absolute;
+top:70px;
+right:20px;
+}
+
+.social{
+  width:20px;
+  height:auto;
+  padding :5px;
+  border-bottom: 2px solid transparent;
+}
+
+.social:hover{
+  border-bottom-color: #3085e0;
+  transition : 0.3s;
+}
+
+.container{
+  width:99%;
+  height:100%;
+  position: fixed;
+  top:120px;
+  z-index: 1;
+}
